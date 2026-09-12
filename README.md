@@ -1,0 +1,588 @@
+# oneshot-eula<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OneShot: Dual Camera Recorder - EULA</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+            line-height: 1.7;
+            color: #222;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 24px;
+            background: #fff;
+        }
+
+```
+    h1 {
+        font-size: 32px;
+        margin-bottom: 8px;
+    }
+
+    h2 {
+        font-size: 21px;
+        margin-top: 32px;
+        margin-bottom: 12px;
+    }
+
+    p {
+        margin: 12px 0;
+    }
+
+    ul {
+        margin-top: 8px;
+    }
+
+    li {
+        margin-bottom: 8px;
+    }
+
+    .date {
+        color: #666;
+        margin-bottom: 30px;
+    }
+
+    a {
+        color: #1769aa;
+        text-decoration: none;
+    }
+</style>
+```
+
+</head>
+
+<body>
+
+<h1>End User License Agreement</h1>
+
+<p class="date"><strong>Effective Date:</strong> September 12, 2026</p>
+
+<p>
+This End User License Agreement ("EULA") is a legal agreement between you
+("User," "you," or "your") and <strong>Farasat Ullah Khan</strong>
+("Service Provider," "we," "us," or "our") regarding your use of the
+<strong>OneShot: Dual Camera Recorder</strong> mobile application
+(the "Application").
+</p>
+
+<p>
+By downloading, installing, accessing, or using the Application, you agree
+to be bound by this EULA. If you do not agree with these terms, do not
+download, install, or use the Application.
+</p>
+
+<h2>1. License Grant</h2>
+
+<p>
+Subject to your compliance with this EULA, we grant you a limited,
+non-exclusive, non-transferable, revocable license to download and use
+the Application on an Apple device that you own or control for your
+personal, lawful use.
+</p>
+
+<p>You may not:</p>
+
+<ul>
+    <li>Copy, reproduce, distribute, or redistribute the Application except as permitted by applicable law.</li>
+    <li>Modify, adapt, translate, or create derivative works based on the Application.</li>
+    <li>Reverse engineer, decompile, disassemble, or attempt to obtain the source code of the Application, except where expressly permitted by applicable law.</li>
+    <li>Remove, alter, or obscure copyright, trademark, or other proprietary notices.</li>
+    <li>Use the Application for unlawful, fraudulent, or unauthorized purposes.</li>
+    <li>Attempt to interfere with or compromise the security or operation of the Application.</li>
+    <li>Attempt to bypass, disable, or circumvent restrictions on premium features or paid functionality.</li>
+</ul>
+
+<p>
+All rights not expressly granted under this EULA are reserved by the
+Service Provider.
+</p>
+
+<h2>2. Application Features</h2>
+
+<p>
+OneShot: Dual Camera Recorder provides video recording functionality
+that may allow users to capture video using the front and rear cameras
+of a supported device simultaneously.
+</p>
+
+<p>
+Depending on the device and Application version, features may include:
+</p>
+
+<ul>
+    <li>Simultaneous front and rear camera recording.</li>
+    <li>Split-screen video recording.</li>
+    <li>Picture-in-picture recording.</li>
+    <li>High-quality video recording.</li>
+    <li>Microphone audio recording.</li>
+    <li>Saving recorded videos to the device.</li>
+    <li>Sharing recorded videos through supported third-party platforms.</li>
+</ul>
+
+<p>
+Features may vary depending on your device model, iOS version, available
+storage, system capabilities, and Application version.
+</p>
+
+<h2>3. Camera and Microphone Access</h2>
+
+<p>
+The Application requires access to your device's camera and, where
+applicable, microphone to provide video and audio recording functionality.
+</p>
+
+<p>
+You control these permissions through your device's operating-system
+settings. If you deny or revoke required permissions, certain features
+may not function or may become unavailable.
+</p>
+
+<p>
+You are responsible for ensuring that you have appropriate permission to
+record any person, location, voice, image, or other content captured
+using the Application.
+</p>
+
+<h2>4. User Content</h2>
+
+<p>
+You retain ownership of videos, photographs, audio recordings, and other
+content that you create, record, import, edit, or process using the
+Application ("User Content").
+</p>
+
+<p>
+We do not claim ownership of your User Content merely because you use the
+Application to process or store it.
+</p>
+
+<p>
+You are solely responsible for your User Content and represent that you
+have all rights, permissions, and authorizations necessary to record,
+use, reproduce, edit, store, and share such content.
+</p>
+
+<p>
+You must not use the Application to create, process, or distribute
+content that:
+</p>
+
+<ul>
+    <li>Infringes another person's copyright, trademark, privacy, publicity, or other rights.</li>
+    <li>Violates applicable laws or regulations.</li>
+    <li>Is used for unlawful, fraudulent, or deceptive purposes.</li>
+    <li>Contains content that you do not have permission to use.</li>
+    <li>Facilitates harassment, threats, abuse, or other unlawful conduct.</li>
+</ul>
+
+<h2>5. Local Storage and Recorded Videos</h2>
+
+<p>
+The Application may save recorded videos and related media locally on
+your device or in locations made available through your device's
+operating system.
+</p>
+
+<p>
+You are responsible for maintaining backups of any videos or content
+that you consider important.
+</p>
+
+<p>
+To the extent permitted by applicable law, we are not responsible for
+the loss of locally stored videos resulting from device failure,
+accidental deletion, insufficient storage, operating-system changes,
+Application removal, or other circumstances outside our reasonable
+control.
+</p>
+
+<h2>6. Sharing and Third-Party Platforms</h2>
+
+<p>
+The Application may allow you to save or share recorded content through
+social-media platforms, messaging services, cloud services, or other
+third-party applications.
+</p>
+
+<p>
+When you share content with a third party, that third party's terms,
+privacy policies, and practices apply.
+</p>
+
+<p>
+We are not responsible for how third-party platforms store, display,
+distribute, modify, or otherwise process content that you choose to
+share with them.
+</p>
+
+<h2>7. Privacy</h2>
+
+<p>
+Your use of the Application is also governed by our Privacy Policy,
+which explains how information is collected, used, retained, and
+processed.
+</p>
+
+<p>
+Our Privacy Policy is available at:
+</p>
+
+<p>
+<a href="https://sites.google.com/view/oneshot-dual-camera-pp/home" target="_blank">
+https://sites.google.com/view/oneshot-dual-camera-pp/home
+</a>
+</p>
+
+<p>
+The Privacy Policy forms an important part of your use of the
+Application.
+</p>
+
+<h2>8. Third-Party Services</h2>
+
+<p>
+The Application may use third-party services to provide analytics,
+diagnostic, crash-reporting, or other functionality.
+</p>
+
+<p>
+These services may include:
+</p>
+
+<ul>
+    <li>Google Analytics for Firebase</li>
+    <li>Firebase Crashlytics</li>
+    <li>Apple App Store and StoreKit services</li>
+</ul>
+
+<p>
+Third-party services are governed by their own terms and privacy
+policies. We are not responsible for the independent practices of
+third-party service providers.
+</p>
+
+<h2>9. In-App Purchases and Subscriptions</h2>
+
+<p>
+The Application may provide premium features through in-app purchases
+or automatically renewing subscriptions.
+</p>
+
+<p>
+All purchases are processed through Apple's App Store and StoreKit.
+Prices, subscription periods, and available purchase options will be
+displayed within the Application before you complete a purchase.
+</p>
+
+<p>
+By making an in-app purchase or subscribing to a premium service, you
+agree to Apple's applicable payment, App Store, and subscription terms.
+</p>
+
+<p>
+We do not directly process or store your credit-card or other payment
+card information.
+</p>
+
+<h2>10. Subscription Renewal and Cancellation</h2>
+
+<p>
+Where automatically renewing subscriptions are offered, your
+subscription will renew according to the terms presented at the time
+of purchase unless you cancel it through your Apple account before the
+applicable renewal date.
+</p>
+
+<p>
+You can manage or cancel your subscription through your Apple account
+and the App Store subscription settings.
+</p>
+
+<p>
+Apple's applicable terms and refund policies govern purchases and
+subscription refunds. We do not guarantee refunds for purchases made
+through the App Store where the refund decision is controlled by Apple.
+</p>
+
+<h2>11. Changes to Pricing and Premium Features</h2>
+
+<p>
+We reserve the right to modify, add, remove, or discontinue features,
+including premium features, subscriptions, or other paid functionality.
+</p>
+
+<p>
+Prices and purchase options applicable to you will be displayed before
+you complete a purchase.
+</p>
+
+<p>
+Changes to existing subscriptions will be handled in accordance with
+Apple's applicable App Store rules and requirements.
+</p>
+
+<h2>12. Intellectual Property</h2>
+
+<p>
+The Application, including its original software, source code, design,
+graphics, interface, trademarks, logos, names, and branding, is owned
+by or licensed to the Service Provider and is protected by applicable
+intellectual-property laws.
+</p>
+
+<p>
+Nothing in this EULA grants you ownership of the Application or its
+intellectual property.
+</p>
+
+<h2>13. Updates and Changes</h2>
+
+<p>
+We may release updates, bug fixes, improvements, security updates, or
+new features from time to time.
+</p>
+
+<p>
+Some updates may be required for continued use of the Application.
+If you choose not to install available updates, certain features may
+stop functioning correctly or may become unavailable.
+</p>
+
+<p>
+We may also discontinue support for older versions of the Application
+or older versions of iOS.
+</p>
+
+<h2>14. Application Availability</h2>
+
+<p>
+We make reasonable efforts to keep the Application available and
+functioning properly. However, we do not guarantee that the
+Application will always be available, uninterrupted, secure, or
+error-free.
+</p>
+
+<p>
+The Application may become temporarily unavailable due to maintenance,
+updates, device issues, operating-system changes, network problems,
+third-party service outages, or circumstances beyond our reasonable
+control.
+</p>
+
+<p>
+Some features may require an internet connection. You are responsible
+for any mobile-data, internet, or roaming charges associated with your
+use of the Application.
+</p>
+
+<h2>15. Disclaimer of Warranties</h2>
+
+<p>
+To the fullest extent permitted by applicable law, the Application is
+provided on an "AS IS" and "AS AVAILABLE" basis.
+</p>
+
+<p>
+We do not guarantee that:
+</p>
+
+<ul>
+    <li>The Application will always be available or uninterrupted.</li>
+    <li>The Application will be completely error-free.</li>
+    <li>The Application will meet every individual requirement.</li>
+    <li>Video recording or processing will always produce the expected result.</li>
+    <li>The Application will be compatible with every device or future version of iOS.</li>
+    <li>Third-party services will always be available or error-free.</li>
+</ul>
+
+<p>
+Nothing in this EULA excludes warranties or consumer rights that cannot
+legally be excluded under applicable law.
+</p>
+
+<h2>16. Limitation of Liability</h2>
+
+<p>
+To the fullest extent permitted by applicable law, the Service Provider
+will not be liable for indirect, incidental, special, consequential, or
+punitive damages arising from or related to your use of the Application.
+</p>
+
+<p>
+This may include, where legally permitted:
+</p>
+
+<ul>
+    <li>Loss of data or videos.</li>
+    <li>Loss of profits.</li>
+    <li>Business interruption.</li>
+    <li>Device-related issues.</li>
+    <li>Loss resulting from third-party services.</li>
+    <li>Loss resulting from inability to access the Application.</li>
+</ul>
+
+<p>
+Nothing in this EULA limits liability that cannot legally be excluded
+under applicable law.
+</p>
+
+<p>
+To the fullest extent permitted by applicable law, our total liability
+arising from your use of the Application will not exceed the amount you
+paid to us for the Application or applicable premium services during
+the twelve months preceding the event giving rise to the claim.
+</p>
+
+<h2>17. Indemnification</h2>
+
+<p>
+To the fullest extent permitted by applicable law, you agree to
+indemnify and hold harmless the Service Provider from claims, damages,
+liabilities, losses, and reasonable expenses arising from:
+</p>
+
+<ul>
+    <li>Your violation of this EULA.</li>
+    <li>Your unlawful use of the Application.</li>
+    <li>Your violation of another person's rights.</li>
+    <li>Your User Content.</li>
+    <li>Your misuse of the Application.</li>
+</ul>
+
+<h2>18. Termination</h2>
+
+<p>
+You may stop using the Application at any time by deleting it from
+your device.
+</p>
+
+<p>
+We may suspend or discontinue the Application or any part of it where
+reasonably necessary for security, legal, operational, or business
+reasons.
+</p>
+
+<p>
+If you materially violate this EULA, we may restrict your access to
+applicable features or services.
+</p>
+
+<p>
+Upon termination or discontinuation, your license to use the
+Application will end and you should cease using the Application and
+delete it from your device.
+</p>
+
+<h2>19. Governing Law</h2>
+
+<p>
+This EULA is governed by the laws applicable in the jurisdiction in
+which the Service Provider is established, without regard to
+conflict-of-law principles, except where mandatory consumer-protection
+laws provide otherwise.
+</p>
+
+<p>
+Nothing in this section prevents you from exercising rights that cannot
+legally be excluded under the laws applicable to you.
+</p>
+
+<h2>20. Apple App Store Terms</h2>
+
+<p>
+This EULA is between you and the Service Provider and not with Apple.
+Apple is not responsible for the Application or its content, support,
+maintenance, or warranty obligations except as otherwise required by
+applicable law.
+</p>
+
+<p>
+Your use of the Application must also comply with Apple's applicable
+App Store terms and conditions.
+</p>
+
+<p>
+You acknowledge that Apple and its subsidiaries are third-party
+beneficiaries of this EULA and may enforce applicable provisions of
+this EULA against you as a third-party beneficiary.
+</p>
+
+<h2>21. Terms of Use</h2>
+
+<p>
+Your use of the Application is also subject to our Terms & Conditions.
+</p>
+
+<p>
+The Terms & Conditions are available at:
+</p>
+
+<p>
+<a href="https://sites.google.com/view/reaction-video-maker-terms/home" target="_blank">
+https://sites.google.com/view/reaction-video-maker-terms/home
+</a>
+</p>
+
+<h2>22. Changes to This EULA</h2>
+
+<p>
+We may update this EULA from time to time. When we make changes, we
+will update the Effective Date and publish the updated version.
+</p>
+
+<p>
+Your continued use of the Application after an updated EULA becomes
+effective constitutes acceptance of the updated EULA to the extent
+permitted by applicable law.
+</p>
+
+<p>
+If you do not agree with an updated EULA, you should stop using the
+Application.
+</p>
+
+<h2>23. Severability</h2>
+
+<p>
+If any provision of this EULA is found to be invalid, unlawful, or
+unenforceable, that provision will be modified or limited to the
+minimum extent necessary to make it enforceable.
+</p>
+
+<p>
+The remaining provisions will continue in full force and effect.
+</p>
+
+<h2>24. Entire Agreement</h2>
+
+<p>
+This EULA, together with the Privacy Policy and Terms & Conditions,
+constitutes the agreement between you and the Service Provider
+concerning your use of the Application, except where additional terms
+are presented to you for specific features or services.
+</p>
+
+<h2>25. Contact Us</h2>
+
+<p>
+If you have any questions, concerns, or suggestions regarding this
+EULA, please contact:
+</p>
+
+<p>
+<strong>Farasat Ullah Khan</strong><br>
+Email:
+<a href="mailto:digitaltechhub482@gmail.com">
+digitaltechhub482@gmail.com
+</a>
+</p>
+
+<p>
+<strong>Effective Date:</strong> September 12, 2026
+</p>
+
+</body>
+</html>
